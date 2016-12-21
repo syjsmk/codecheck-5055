@@ -1,0 +1,62 @@
+[
+  {
+    "input": "123456780",
+    "output": true
+  },
+  {
+    "input": "213406785",
+    "output": true
+  },
+  {
+    "input": "342156780",
+    "output": false
+  },
+  {
+    "input": "178034526",
+    "output": false
+  },
+  {
+    "input": "123045678",
+    "output": true
+  },
+  {
+    "input": "123654780",
+    "output": "false"
+  },
+  {
+    "input": "712345608",
+    "output": "true"
+  },
+  {
+    "input": "812345706",
+    "output": "true"
+  },
+  {
+    "input": "780432156",
+    "output": "true"
+  },
+  {
+    "input": "236415780",
+    "output": "true"
+  },
+  {
+    "input": "608375421",
+    "output": "false"
+  },
+  {
+    "input": "623187045",
+    "output": "true"
+  },
+  {
+    "input": "510784236",
+    "output": "true"
+  },
+  {
+    "input": "876543201",
+    "output": "true"
+  },
+  {
+    "input": "253418067",
+    "output": "true"
+  }
+]
